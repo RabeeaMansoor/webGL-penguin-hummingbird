@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HummingBirds",
+"productVersion": "0.1",
+"dataUrl": "webGL-penguin-hummingbird.data.unityweb",
+"wasmCodeUrl": "webGL-penguin-hummingbird.wasm.code.unityweb",
+"wasmFrameworkUrl": "webGL-penguin-hummingbird.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "webGL-penguin-hummingbird.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.1f1"
+}
